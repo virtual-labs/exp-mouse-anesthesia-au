@@ -1,4 +1,4 @@
-## Materials Required
+#### Materials Required
 
 &nbsp;
 
@@ -19,7 +19,7 @@
 &nbsp;
 
 
-## Procedure
+### Procedure
  
 
 &nbsp;
@@ -27,7 +27,7 @@
 
  
 
-### Inhalant Anaesthesia Using Isoflurane for Mouse and Rat
+#### Inhalant Anaesthesia Using Isoflurane for Mouse and Rat
 (Same procedure can be performed using methoxyflurane)
 
  
@@ -45,7 +45,7 @@
 
  
 
-### Blood Collection from Orbital Sinus or Plexus of Mouse and Rat
+#### Blood Collection from Orbital Sinus or Plexus of Mouse and Rat
  
 
 1. Manually restrain and anesthetize the animal.
@@ -58,7 +58,7 @@
 &nbsp;
 
 
-### Blood Collection from Tail Vein of Mouse and Rat Using Microhematocrit Tube
+#### Blood Collection from Tail Vein of Mouse and Rat Using Microhematocrit Tube
  
 
 1. Restrain the animal.
@@ -72,7 +72,7 @@
 &nbsp;
 
 
-### Blood Collection from Tail Vein of Mouse and Rat Using Centrifuge Tube
+#### Blood Collection from Tail Vein of Mouse and Rat Using Centrifuge Tube
  
 
 1. Restrain the animal.
@@ -87,5 +87,5 @@
  
  
 
-## Result
+### Result
 Blood is collected from the anesthetized mouse from orbital sinsus or plexes and tail vein using a microhematocrit tube and stored for further research purposes.
