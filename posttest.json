@@ -1,0 +1,47 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.The most commonly used lab animals are",
+      "answers": {
+        "a": "Frogs",
+        "b": "Zebra fish",
+        "c": "Rabbits",
+        "d": "Rodents"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.The maximum amount of blood that can be drawn if the rodent has to survive after the procedure is",
+      "answers": {
+        "a": "10% of maximum blood volume",
+        "b": "3% of maximum blood volume",
+        "c": "15% of maximum blood volume",
+        "d": "1% of maximum blood volume"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.The desired experimental procedure can be performed with the animal as soon as the animal falls unconscious in the chamber",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Tubes commonly used in blood collection procedures are",
+      "answers": {
+        "a": "Micro PVC tubes",
+        "b": "Micro extraction tubes",
+        "c": "Microhematocrit tubes",
+        "d": "Microfiber tubes"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
